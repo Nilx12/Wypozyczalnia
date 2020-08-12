@@ -1,0 +1,19 @@
+           <div class="mark" <?php if(!$oceniles) echo"onMouseOver='ser();' onmouseout='ser1();'"; ?>><div id="ocena_kontener">
+                                 <?php
+                                 
+                                 
+                                    for($i=1; $i<=6; $i++)
+                                    {
+                                         if($i<=$ocenakon)
+                                        echo "<img class='star' src='grafiki/gold.png'>";
+                                     if($i>$ocenakon && $i-1<$ocenakon)
+                                        echo "<img class='star' src='grafiki/silver1.png'>";
+                                        else if($i>$ocenakon)
+                                            echo "<img class='star' src='grafiki/black.png'>";
+                                    
+                                    } 
+                                 
+                                 
+                                 ?>
+                                 
+                                 </div><p class="marek"> <?php  echo"$ocenakon / 6"; ?> </p></div>

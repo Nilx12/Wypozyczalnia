@@ -1,0 +1,167 @@
+#wysection
+{
+	margin-top:160px;
+	text-align:center;
+}
+.wypo 
+{
+	width:900px;
+	height:260px;
+	margin-right:auto;
+	margin-left:auto;
+	background-color:white;
+	margin-top:20px;
+	
+}
+.kl
+{
+	width:30%;
+	height:100%;
+	float:left;
+
+}
+.lis
+{
+	width:70%;
+	height:100%;
+	float:left;
+
+}
+
+.wyhej
+{
+	line-height:2;
+	font-size:17pt;
+	margin-left:10px;
+}
+.titw
+{
+	text-align:center;
+	font-size:20pt;
+	margin-top:10px;
+}
+.hhh
+{
+	width:100%;
+	height:40%;
+
+	text-align:center;
+}
+.jej
+{
+	width:30%;
+	display:inline-block;
+	margin-top:0px;
+	font-size:17pt;
+	line-height:1.5;
+}
+.wypmovies
+{
+	height:50%;
+	text-align:center;
+	 
+}
+
+
+.teje
+{
+	width:100px;
+	height:150px;
+	margin-left:10px;
+	margin-right:10px;
+}
+#lwyp
+{
+    height:90%;
+    width:60%;    
+ display: inline-block;
+
+}
+
+#lkli
+{
+width:40%;
+height:90%;
+display: inline-block;
+vertical-align:top;
+}
+
+
+#newyp
+{
+position:absolute;
+top:40%;
+left:50%;
+transform:translateX(-50%);
+width:950px;
+height:300px;
+background-color:white;
+border:3px solid gray;
+
+}
+
+#topfil
+{
+    width: 100%;
+    height:40%; 
+}
+#films
+{
+    width: 100%;
+    height:60%;
+    text-align:center;
+}
+#button
+{
+    float: right;
+    margin-right:45%;
+    background-color: #808080;
+    border-radius: 5px;
+    width:60px;
+    height:20px;
+    text-align:center;
+}
+#button:hover
+{
+    background-color: #C0C0C0;
+    cursor: pointer;
+}
+
+.thumbnail
+{
+    width:95px;
+    height: 150px;
+}
+#daneklienta
+{
+    vertical-align:top;
+}
+#s{
+    margin-top:10px;
+
+}
+
+#zwr
+{
+    float: right;
+    vertical-align: top;
+}
+#update
+{
+width:300px;
+height:220px;
+background-color:gray;	
+position:fixed;
+top:50%;
+left:50%;
+transform: translate(-50%, -50%);
+text-align:center;
+}
+.clos
+{
+    background-color:red;
+    cursor:pointer;
+    float:right;
+	width:20px;
+	height:20px;
+}

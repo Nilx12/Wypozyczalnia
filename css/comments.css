@@ -1,0 +1,47 @@
+#comments
+{
+    margin-top:30px;
+    margin-bottom:30px;
+    margin-right:auto;
+    margin-left:auto;
+    background-color:white;
+    width:1300px;
+    min-height:500px;
+    padding:30px;
+    border:1px solid black;
+    border-radius:5px;
+    position:relative;
+}
+#new_comment
+{
+    width:900px;
+    height:250px;
+    border:1px solid black;
+    box-shadow: 10px 10px 5px -7px rgba(0,0,0,0.75);
+}
+#createcomment
+{
+	resize: none;
+    margin-top:20px;
+    float:left;
+    width:83%;
+    height:180px;
+}
+#user_info
+{
+    float:left;
+    width:15%;
+    text-align:center;
+    margin-top:20px;
+}
+#nickinsidecomment{font-size:20pt;}
+#markyou{font-size:18pt;}
+#send_comment
+{
+    float:right;
+    margin-right:15px;
+    width:100px;
+    height:30px;
+    border:1px solid black;
+    border-radius:5px;
+}

@@ -1,0 +1,162 @@
+#mainofit
+{
+    margin-top:100px;
+    margin-right:auto;
+    margin-left:auto;
+    background-color:white;
+    width:1300px;
+    height:500px;
+    padding:30px;
+    background-color:rgb(240,250,250);
+    border:1px solid black;
+    border-radius:5px;
+    position:relative;
+
+    
+}
+.glownaof
+{
+   width:350px;
+   height:500px;
+}
+.imge
+{
+    width:350px;
+   height:500px; 
+    float:left;
+}
+.secondpart
+{
+    height:500px; 
+    float:left;    
+    width:900px;
+    margin-left:30px;
+
+}
+.title{font-size:32pt; font-family:Georgia; margin-top:0px;height:50px;}
+.rest
+{
+    width:100%;
+    height:430px;
+    margin-top:0px;
+}
+.textopis
+{
+
+    width:70%;
+    height:60%;
+    float:left;
+}
+.daneiinne
+{
+
+    width:30%;
+    height:60%;
+    float:left;
+    margin-bottom:10px;
+    font-size:18pt;
+    line-height:1.5;
+}
+.mark
+{
+    width:100%;
+    height:28%;
+    background: rgba(0, 0, 0, 0.9);
+    border-radius:30px;
+    line-height:1.5;
+}
+
+.marek
+{
+    color:white; 
+    width:30%;
+    font-size:65pt;
+    margin-top:0px;
+    margin-right:10px;
+    float:right;
+       
+}
+.oppistego
+{
+    font-size:18pt;
+    font-family: serif;
+}
+#ocena_kontener
+{
+    float:left;
+    margin-left:10px;
+    margin-top:64px;
+ vertical-align: middle;
+ height:70px;
+    transform:translateY(-50%);
+}
+.star
+{
+    width:70px;
+    height:70px;
+    margin-left:10px;
+ 
+
+}
+.blackstar
+{
+    width:70px;
+    height:70px;
+    margin-left:10px;
+   z-index:10;
+    cursor:pointer;
+}
+
+#lelk
+{
+    position:absolute;
+    top:20px;
+    right:30px;
+    width:100px;
+    height:30px;
+    font-size:16pt;
+    border-radius:5px;
+    border:2px solid black;
+    cursor: pointer;
+}
+
+#editmovie
+{
+    position: fixed;
+    top:50%;
+    left:50%;
+    transform:translate(-50%, -50%);
+    width:600px;
+    height:350px;
+    background-color:white;
+    border-radius:3px;
+    border:2px solid black;
+}
+#imagenew
+{
+    width:200px;
+    height:90%;
+    float:left;
+      margin-top:10px;
+}
+
+#opisnew
+{
+    width:200px;
+    height:90%;
+    float:left;
+  margin-top:10px;
+}
+#aboutnew
+{
+    width:200px;
+    height:90%;
+    float:left;
+    margin-top:10px;
+}
+#opistegi
+{
+    width:190px;
+    height:270px;
+    	resize: none;
+}
